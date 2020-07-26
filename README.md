@@ -1,2 +1,22 @@
-One can manage work of different students and can mark their work as done, can edit if something went wrong and can delete a student's list too.
-It is made using HTML5, CSS3 and vanilla JavaScript.
+
+# Students Management Application   👨🏿‍🏫 
+
+This **Application** can help you in **managing and assigning** the **tasks** of **Students**.
+
+# 📱 Technology
+- HTML5
+- CSS3
+- Vanilla JavaScript
+  
+# 🕹  FUNCTIONS
+
+- Assign Student Tasks.
+- Edit the Tasks.
+- Mark the Task as Complete.
+- Delete the Task.
+  
+#  📱 LINK TO WEB APPLICATION
+
+- [Student Management System](https://studentsrecord.netlify.app/)
+
+ 
